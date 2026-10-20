@@ -1,0 +1,30 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [PCB_Project.PrjPcb]
+   Generated File[Buck_converter_Copper_Signal_Top.gbr]
+   Generated File[Buck_converter_Copper_Signal_Bot.gbr]
+   Generated File[Buck_converter_Pads_Bot.gbr]
+   Generated File[Buck_converter_Pads_Top.gbr]
+   Generated File[Buck_converter_Legend_Top.gbr]
+   Generated File[Buck_converter_Legend_Bot.gbr]
+   Generated File[Buck_converter_Soldermask_Top.gbr]
+   Generated File[Buck_converter_Soldermask_Bot.gbr]
+   Generated File[Buck_converter_Paste_Top.gbr]
+   Generated File[Buck_converter_Paste_Bot.gbr]
+   Generated File[Buck_converter_Keep-out.gbr]
+   Generated File[Buck_converter_Mechanical_1.gbr]
+   Generated File[Buck_converter_Mechanical_13.gbr]
+   Generated File[Buck_converter_Mechanical_15.gbr]
+   Generated File[Buck_converter_Profile.gbr]
+   Generated File[Buck_converter_NPTH_Drill.gbr]
+   Generated File[Buck_converter_PTH_Drill.gbr]
+   Generated File[Buck_converter_Drawing_1.gbr]
+   Generated File[Buck_converter_Drillmap_1.gbr]
+   Generated File[Buck_converter.EXTREP]
+   Generated File[Buck_converter.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 8:53:38 AM On 6/29/2026
